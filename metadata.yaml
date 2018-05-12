@@ -1,0 +1,38 @@
+_repo: The-Old-Arm-Chair_29732
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Humphrey, Lizbeth Bullock
+    aliases:
+    - Humphrey, Miss L. B.
+    - Humphrey, Lizzie Bullock
+    - Humphrey, L. B. (Lizbeth Bullock)
+    - Humphrey, Elizabeth Bullock
+    birthdate: 1841
+    gutenberg_agent_id: '31482'
+    url: http://www.gutenberg.org/2009/agents/31482
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Cook, Eliza
+    birthdate: 1818
+    deathdate: 1889
+    gutenberg_agent_id: '34588'
+    url: http://www.gutenberg.org/2009/agents/34588
+description: ''
+gutenberg_issued: '2009-11-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '29732'
+  lccn: '25004894'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Poetry'
+title: The Old Arm-Chair
+url: http://www.gutenberg.org/ebooks/29732
